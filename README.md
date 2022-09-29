@@ -3,4 +3,4 @@
  
 <img src="/client/krypt/images/img-1.png">
 
-# Tele inicial
+# Tela inicial
